@@ -1,0 +1,1 @@
+This is an implementaion of the data decoding described in *Think like a programmer* 2nd edition, ch. 2.
